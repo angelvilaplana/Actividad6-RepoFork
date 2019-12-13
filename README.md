@@ -31,7 +31,8 @@ Os deseo un feliz año 2020 !!!
 
 
 #### AlumnoFila1PC5
-
+* Imprime el nombre "Angel"
+* Imprime "Deseo lo mejor para todos en 2020 !!"
 
 #### AlumnoFila1PC6
 
